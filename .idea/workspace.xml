@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/chuyen_doi_tien_te.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/chuyen_so_thanh_chu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/hien_thi_loi_chao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_20_so_nguyen_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_cac_snt_nho_hon_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_hinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgdn_tranvansot_module2_java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     "Application.chuyen_doi_tien_te.executor": "Run",
     "Application.hien_thi_loi_chao.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747395331778</updated>
-      <workItem from="1747395332984" duration="988000" />
+      <workItem from="1747395332984" duration="1907000" />
     </task>
     <servers />
   </component>
