@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_20_so_nguyen_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_cac_snt_nho_hon_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_vong_lap_loop/hien_thi_hinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang/gop_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang/them_phan_tu_vao_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_mang/xoa_phan_tu_khoi_mang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgdn_tranvansot_module2_java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_gthieu_java/chuyen_doi_tien_te.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/chuyen_doi_tien_te.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,31 +27,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2xAymE66Hy901pnLPwpnI26fI94" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.chuyen_doi_tien_te.executor": "Run",
-    "Application.hien_thi_loi_chao.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/codegym/module2/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.chuyen_doi_tien_te.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hien_thi_loi_chao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xoa_phan_tu_khoi_mang.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/codegym/module2/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747395331778</updated>
-      <workItem from="1747395332984" duration="1907000" />
+      <workItem from="1747395332984" duration="4466000" />
+      <workItem from="1747654392009" duration="275000" />
     </task>
     <servers />
   </component>
