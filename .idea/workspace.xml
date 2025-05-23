@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class/QuadraticEquation_chay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class/StopWatch_chay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class/fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access/Student/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access/Student/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access/circel/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access/circel/TestCircle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_gthieu_java/chuyen_doi_tien_te.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_gthieu_java/hien_thi_loi_chao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_gthieu_java/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,9 @@
   "keyToString": {
     "Application.QuadraticEquation_chay.executor": "Run",
     "Application.StopWatch_chay.executor": "Run",
+    "Application.TestCircle.executor": "Run",
     "Application.chuyen_doi_tien_te.executor": "Run",
+    "Application.fantext.executor": "Run",
     "Application.hien_thi_loi_chao.executor": "Run",
     "Application.tim_gia_tri_nho_nhat_trong_mang.executor": "Run",
     "Application.tim_phan_tu_lon_nhat_trong_mang_hai_chieu.executor": "Run",
@@ -58,6 +62,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access.circel.TestCircle" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss5_Access.circel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCircle" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +101,8 @@
       <workItem from="1747395332984" duration="4466000" />
       <workItem from="1747654392009" duration="5091000" />
       <workItem from="1747824016041" duration="60000" />
-      <workItem from="1747827136319" duration="2100000" />
+      <workItem from="1747827136319" duration="5335000" />
+      <workItem from="1748000225333" duration="5224000" />
     </task>
     <servers />
   </component>
