@@ -1,7 +1,7 @@
 package ss5_Access.Student;
 
 public class student {
-    private String name = "Đạt";
+    private String name = "sót";
     private String classes = "C02";
 
     public student(){
