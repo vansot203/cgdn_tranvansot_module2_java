@@ -2,7 +2,7 @@ package ss3_mang;
 
 import java.util.Scanner;
 
-public class tim_phan_tu_lon_nhat_trong_mang_hai_chieu {
+public class giatrilonnhat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhập số hàng ");

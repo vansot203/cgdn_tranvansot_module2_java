@@ -1,7 +1,7 @@
 package ss3_mang;
 import java.util.Scanner;
 
-public class gop_mang {
+public class gopmang {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

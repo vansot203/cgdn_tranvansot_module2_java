@@ -1,7 +1,7 @@
 package ss1_gthieu_java;
 import java.util.Scanner;
 
-public class chuyen_so_thanh_chu {
+public class number {
     public static String docSoDonVi(int so) {
         switch (so) {
             case 0: return "không";
