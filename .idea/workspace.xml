@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="" />
+    <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/circle_cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/circle_cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/circle_cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point2D_va_point3D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point2D_va_point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point2D_va_point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point_va_moveablepoint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point_va_moveablepoint/Moveablepoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/point_va_moveablepoint/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss5_Access/circel/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss5_Access/circel/TestCircle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +106,9 @@
       <workItem from="1747824016041" duration="60000" />
       <workItem from="1747827136319" duration="5335000" />
       <workItem from="1748000225333" duration="5224000" />
-      <workItem from="1748005830097" duration="548000" />
+      <workItem from="1748005830097" duration="3407000" />
+      <workItem from="1748259411366" duration="3380000" />
+      <workItem from="1748432747746" duration="3528000" />
     </task>
     <servers />
   </component>
