@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d12bb-77b9-4ccc-b3a4-150b97e238ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/MylinkedListText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss10_DSA/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_qeue/DecimaIToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_qeue/PalindromeQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_qeue/numberĐN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_collecvtion/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss13_tim_kiem/chuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code/entity/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_stack_qeue/DecimaIToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_stack_qeue/DecimalToBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,32 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.QuadraticEquation_chay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StopWatch_chay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.chuyen_doi_tien_te.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fantext.executor&quot;: &quot;Run&quot;,
-    &quot;Application.hien_thi_loi_chao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tim_gia_tri_nho_nhat_trong_mang.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tim_phan_tu_lon_nhat_trong_mang_hai_chieu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.xoa_phan_tu_khoi_mang.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/codegym/module2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/codegym/module2/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DecimalToBinary.executor": "Run",
+    "Application.QuadraticEquation_chay.executor": "Run",
+    "Application.StopWatch_chay.executor": "Run",
+    "Application.TestCircle.executor": "Run",
+    "Application.chuyen_doi_tien_te.executor": "Run",
+    "Application.fantext.executor": "Run",
+    "Application.hien_thi_loi_chao.executor": "Run",
+    "Application.tim_gia_tri_nho_nhat_trong_mang.executor": "Run",
+    "Application.tim_phan_tu_lon_nhat_trong_mang_hai_chieu.executor": "Run",
+    "Application.xoa_phan_tu_khoi_mang.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/codegym/module2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/codegym/module2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.DecimalToBinary">
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_qeue.DecimalToBinary" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss11_stack_qeue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss5_Access.circel.TestCircle" />
       <module name="module2" />
@@ -79,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.TestCircle" />
       </list>
     </recent_temporary>
@@ -115,7 +128,8 @@
       <workItem from="1749211831118" duration="2029000" />
       <workItem from="1749642520082" duration="1000" />
       <workItem from="1749642540730" duration="66000" />
-      <workItem from="1749642624039" duration="3160000" />
+      <workItem from="1749642624039" duration="3454000" />
+      <workItem from="1749815743215" duration="2685000" />
     </task>
     <servers />
   </component>
